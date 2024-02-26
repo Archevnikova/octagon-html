@@ -1,0 +1,139 @@
+h2{
+    text-align: center;
+}
+.body-menu{
+    display: flex;
+}
+.logo{
+    display: flex;
+    background: #4BA285;
+    width: 300px;
+    height: 72px;
+    border-radius: 10px;
+    
+    
+}
+.caduceus{
+   margin-top: 20px;
+   margin-left: 20px;
+
+    
+}
+.medicalSchool{
+    color: #FFFFFF;
+    width: 300px;
+    
+    
+
+}
+.about{
+    width:1220px;
+    margin-left: 140px;
+}
+.two-paragraph{
+    margin-top: 30px;
+}
+.profil{
+    
+    width: 300px;
+    height:  157px;
+    
+    border-radius: 10px;
+    gap: 16px;
+    background: #4BA285;
+    
+    margin-bottom: 10px;
+}
+.profil-h2{
+    color:#FFFFFF;
+    
+    padding-top: 10px;
+    margin: 0 auto;
+    margin-left: 40px;
+    margin-top:10px;
+}
+.fio{
+    display: flex;
+    color: #FFFFFF;
+    
+    
+}
+.fio--block{
+    line-height:10px;
+    
+}
+.fio--circle{
+    margin-top: 16px;
+    margin-left: 25px;
+    padding-right: 10px;
+    
+}
+.fio--ur1{
+    display: flex;
+    margin-left:50px;
+    
+}
+.circle{
+   
+}
+.btn-button{
+    
+
+    
+}
+.button{
+    margin:auto;
+    width: 290px;
+    border-style:none;
+    background-color: #6EBB91; 
+    border-radius: 5px;
+    width: 250px;
+    margin-left: 23px;
+    line-height: 30px;
+    color:#FFFFFF;
+}
+.info{
+    width:300px;
+    height: 324px;
+    background: #4BA285;
+    border-radius: 10px;
+    gap: 16px;
+    color: #FFFFFF;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.info-items{
+    list-style-type: none;
+}
+.tests{
+    width:300px;
+    height: 252px;
+    background: #4BA285;
+    border-radius: 10px;
+    
+    color: #FFFFFF;
+    
+}
+.tests-items{
+    list-style-type: none;
+    padding:20px;
+    
+}
+.training-manual{
+    width:300px;
+    height: 163px;
+    background: #4BA285;
+    border-radius: 10px;
+    gap: 16px;
+    color: #FFFFFF;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+.training-manual-items{
+    list-style-type: none;
+}
+.doctors{
+    margin-top: 100px;
+    margin-left:300px;
+}
